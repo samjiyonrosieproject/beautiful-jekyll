@@ -10,7 +10,9 @@ tags: [books, test]
 *Links to Our Individual Websites:*
 
 https://rosiepotash.github.io/
+
 https://jiyon-chat.github.io/
+
 https://samk0918.github.io/
 
 *Preliminary Information: Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?*
