@@ -11,7 +11,7 @@ Links to Our Individual Websites:
 https://rosiepotash.github.io/
 https://jiyon-chat.github.io/
 https://samk0918.github.io/
-*Preliminary Information: Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?*
+#Preliminary Information: Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?#
 Rosie: I have minimal time out of class to work on the project- I would like to get as much as possible done during class periods.
 Sam: I'm always busy. I have wrestling practice until 6 every day. I have debate tournaments a lot of weekends, and have minimal free time outside of class. My goal is to do well in this class and get as much as possible during class time and come up with a final product of which I can be proud.
 Jiyon: Practice until 6 every week day, debate tournaments on many weekends, minimal time outside of class. My goal is to do well in this class and hopefully produce something that is useful for others. 
