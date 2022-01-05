@@ -31,11 +31,11 @@ Our mission is to increase cross grade involvement and change the way high schoo
 
 *Group Roles: Can be specifically defined for each person or can be general and open-ended*
 
-TBD depending on what needs to be done.
+We all have the same role and are working towards the same goal. We are all overall equal collaborators towards our goal even though we occassionallly take on slightly different tasks.
 
 *Division of Labor: Similar to group roles, but in this section you should specifically outline how the workload will be distributed among the group members.*
 
-TBD
+We all are going to work together on each project where possible, and when we have to break off, we will, in order to maximize efficiency.
 
 *Team Name: What is your team name and what is the rationale behind it?*
 
@@ -47,7 +47,7 @@ Our project logo is a handshake because we want to increase community engagement
 
 *Team Plan: Write your plan for who will do what as you work on the Group Project Proposal.*
 
-TBD, unclear on what the proposal exactly entails.
+We have finished the group project proposal, and we worked collaboratively.
 
 *Meeting Management: How often will you meet? How will you coordinate when to meet? How will you communicate to plan meetings? How will the meetings be conducted, what are your expectations for each group member? How will you support each other so that if someone is having a bad day, the meeting can still be successful? How will you make decisions, what happens if people disagree? How will you manage meeting remotely? How will you manage meeting in person if one or more members are remote?*
 
