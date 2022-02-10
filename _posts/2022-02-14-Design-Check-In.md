@@ -17,3 +17,6 @@ Underclassmen are often intimidated by the possibility of approaching upperclass
 
 #### Being Less Judgemental of Other Grades
 Each grade tends to make generalizations about other grades when they don't know anybody in that grade. These generalizations are usually based on one-off experiences with specific members of that grade instead of considering the grade as a whole. Eliminating these generalizations will not be as difficult as some of our other tasks because if our students meet a student who contradicts their assumptions, they can change their generalizations. In fact, it is practically impossible to generalize a grade at Horace Mann because of the immense diversity we have here. As a result, most generalizations are misguided and can be harmful by preventing the development of potentially fruitful relationships between grades. If people are more willing to have open minds about people from other grades, then we can improve community engagement.
+
+#### Design 1:
+![](../IMG_6177.jpeg)
