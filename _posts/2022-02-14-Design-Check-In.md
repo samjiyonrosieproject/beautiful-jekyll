@@ -20,3 +20,31 @@ Each grade tends to make generalizations about other grades when they don't know
 
 #### Design 1:
 ![](../IMG_6177.jpeg)
+
+The high level idea behind this design is the unifying power of playing sports. Oftentimes when we have wanted to play sports with my friends or with people who we don't know that well, access to sports equipment is a barrier. Horace Mann has the equipment, but it is saved for the use of sports teams which means students do not have easy access to it. The equipment is saved for the sports teams because there is a fear that students will lose or damage the equipment. If we can eliminate that fear, students can have easy access to equipment which enables them to connect with each other. The way our design removes the fear of lost or damaged sports equipment is by having students scan their id card and type in their name as well as the time at which they checked out the equipment in order to hold students accountable for lost equipment. Students will be more careful with their equipment if they know that they will have to pay for any equipment that they lose.
+
+###### Tasks Completed
+Being Engaged and Present:
+1. A student or a couple of students from one grade decide in the library they want to play a sports game during their free period, but they need equipment
+2. One student scans their ID card, and they unlock the crate in Olshan lobby after going down the stairs.
+3. Another student who is currently on their phone gets a notification that a sports game has been started
+4. The other student decides to join the game and is no longer on their phone and instead gets good exercise
+
+Being Less Judgemental of Other Grades:
+1. A student or a couple of students from one grade decide in the library they want to play a sports game during their free period, but they need equipment
+2. One student scans their ID card, and they unlock the crate in Olshan lobby after going down the stairs.
+3. Another student who is in a different grade gets a notification that a sports game has been started
+4. The other student decides to join the game and talks to the students from a different grade in between moments in the game, thus eliminating any misconceptions that student has. 
+
+Deepening Connections in Advisory:
+1. A student or a couple of students from one grade decide in the library they want to play a sports game during their free period, but they need equipment
+2. One student scans their ID card, and they unlock the crate in Olshan lobby after going down the stairs.
+3. Another student who is in advisory with that student but doesn't know much more about the other person gets a notification that a sports game has been started
+4. The other student decides to join the game and talks to the students in between moments and the game, providing further modes of communication and connection outside of advisory.
+
+
+Improving the Connections Gained in HMO
+1. A student or a couple of students from one grade decide in the library they want to play a sports game during their free period, but they need equipment
+2. One student scans their ID card, and they unlock the crate in Olshan lobby after going down the stairs.
+3. A younger student who is in HMO with that older student but doesn't know much more about the other person gets a notification that a sports game has been started
+4. The younger student decides to join the game and talks to the older students in between moments and the game, providing further modes of communication and connection outside of HMO.
