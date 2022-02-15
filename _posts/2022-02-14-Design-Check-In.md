@@ -49,9 +49,10 @@ Improving the Connections Gained in HMO
 3. A younger student who is in HMO with that older student but doesn't know much more about the other person gets a notification that a sports game has been started
 4. The younger student decides to join the game and talks to the older students in between moments and the game, providing further modes of communication and connection outside of HMO.
 
-Design #2:
+#### Design 2:
 
-![](../App Dev Design Sketch.HEIC)
+![](../App_Dev_Design_Sketch.HEIC)
+
 Through this design sketch we alleviate the barrier that exists between grades in the library, as well as the feeling of awkwardly rigid structure when being around students in other grades in advisory. The design is an app that connects different grades through means of HM courses. In the search bar, the user will enter a teacher or course at Horace Mann. After entering their search, the user will be presented with an array of group chats titled by their preferred course. By clicking on the course the student belongs to, they enter a group chat composed of any existing Horace Mann student that is either currently taking the course or formerly completed it. As a current student in that class, they will benefit from the advice of students who have already taken the course. When a student finishes the class, the student will remain in the chat, but their role will now be to give advice to others. While the premise of this system is based in academics, the conversation in the chat will naturally evolve into more casual interaction. Grappling with challenging academics and navigating relationships with teachers are experiences every single Horace Mann student can relate to. This base of academic commonalities provide the potential for casual cross grade interaction. 
 
 ### Working/hanging out with students in the library from different grades: 
