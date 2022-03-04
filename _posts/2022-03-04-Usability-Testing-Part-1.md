@@ -5,6 +5,10 @@ We chose the design that allows students to connect with each other through an a
 
 #### Our Design:
 
+![](../IMG_8632.jpeg)
+
+##### Figma Link:
+
 
 
 
