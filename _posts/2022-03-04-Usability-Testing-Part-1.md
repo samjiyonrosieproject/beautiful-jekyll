@@ -8,7 +8,7 @@ We chose the design that allows students to connect with each other through an a
 ![](../IMG_8632.jpg)
 
 #### Figma Link:
-
+https://www.figma.com/file/oag9nknDYIfeCZ6kluSsTW/Korffers-Connect-Design?node-id=0%3A1
 
 
 
