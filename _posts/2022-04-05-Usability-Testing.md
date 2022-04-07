@@ -11,6 +11,8 @@ No honor council interface so role of the honor council is unclear
 Unsure of how the app knows what your schedule is
 No example of difficulty reviews
 
+![](../upload.jpg)
+
 
 #### Test 2
 We conducted one of our usability tests on a student who came to our school in the tenth grade. His perspective is extremely valuable to us, as he has had a different experience with Horace Mann as opposed to other high schoolers. We asked him to narrate what he was doing while he was trying our prototype. After he logged in as a student, the first thing he noted was the profile page. He said he was confused by the layout and a clearer profile page would be helpful. From the profile page, he hit the back button, which took him back to the login page. He logged back into the prototype as a student and then checked out the available classes. He commented on the limited options of classes under the dropdown menu. After he entered the “about this class” page, he noted that he would like more information about the classes. From the “about this class” he was unaware where to click. Once we prompted him, he found the chat. His takeaways were that he generally thought the “app was great” but it lacked clarity. He said he often did not know where to click. 
