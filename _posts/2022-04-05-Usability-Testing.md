@@ -5,32 +5,49 @@ The first test took place in the library with a junior who is not taking our cla
 
 All of these issues were severe enough that they necessitated fixing them:
 
-Unsure of what to do after a loading screen
+Unsure of what to do after a loading screen - We changed our design so that the “welcome page” automatically faded into the login page, so that users would not be confused about where to click on the screen
 
-Unable to go from the login screen to the next screen
+Unsure of how the app knows what your schedule is - We created a page after the login that asks the user to upload their schedule to accurately tailor their profile
 
-Unable to search for other classes
-
-No honor council interface so role of the honor council is unclear
-
-Unsure of how the app knows what your schedule is
-
-No example of difficulty reviews
+Unable to go from the login screen to the next screen - Fixed the green buttons below the login panels so that the user can move to the next page
 
 ![](../upload.jpg)
 
+Unable to search for other classes - We added in a search bar page for classes
+
 ![](../searchbar.jpg)
 
-![](../dropdown.jpg)
+No example of difficulty reviews - We gave an example of an average difficulty rating
+
+![](../difficulty.jpg)
+
+No honor council interface so role of the honor council is unclear - We added a button to illustrate what the honor council would do but not much more because honor council members are a very small part of our user base
+
+![](../honor.jpg)
+
+
 
 #### Test 2
 We conducted one of our usability tests on a student who came to our school in the tenth grade. His perspective is extremely valuable to us, as he has had a different experience with Horace Mann as opposed to other high schoolers. We asked him to narrate what he was doing while he was trying our prototype. After he logged in as a student, the first thing he noted was the profile page. He said he was confused by the layout and a clearer profile page would be helpful. From the profile page, he hit the back button, which took him back to the login page. He logged back into the prototype as a student and then checked out the available classes. He commented on the limited options of classes under the dropdown menu. After he entered the “about this class” page, he noted that he would like more information about the classes. From the “about this class” he was unaware where to click. Once we prompted him, he found the chat. His takeaways were that he generally thought the “app was great” but it lacked clarity. He said he often did not know where to click. 
+
+Issues:
+
+Back buttons leading to log in page instead of previous page
+
+Confused by the lack of variety under the “find new classes” dropdown
+
+![](../dropdown.jpg)
+
+We fixed the flow of the buttons so that the back button goes to the previous page. We believe that the lack of variety under the “find new classes” dropdown was not an essential fix.
+
 
 #### Test 3
 In our third and final usability test, our participant was a sophomore member of our App Development class. We chose this particular participant because he is an underclassman, and we want to ensure that our app works for members of all grades in the Upper Division (since its purpose is to increase cross-grade communication). We observed him open the app prototype in our App Development classroom and work through the various buttons and options on the site. As he clicked through, it became clear that he wasn’t entirely sure of what he was accomplishing with each step, despite being able to locate most of the buttons that advanced him through the pages on the site. He even told us explicitly that he wasn’t “fully sure of the app’s purpose.” A more specific issue with the functionality of the site was in pressing the back button on any given page. Our tester was unable to return to the previous page after clicking on a dropdown menu; instead, when he clicked the back button, the app fully restarted.
 
 This issue was severe enough to necessitate fixing it:
 Back buttons restart the whole app instead of loading the previous page
+
+![](../dropdown.jpg)
 
 An issue that is something we will have to be careful of in future additions and modifications we make to our prototype is that the user was unsure of the app’s overarching purpose/affordances.
 
