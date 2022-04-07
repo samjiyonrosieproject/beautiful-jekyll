@@ -4,11 +4,17 @@
 The first test took place in the library with a junior who is not taking our class. This junior has been at the school since the 3s and is an active member of the community who participates in a variety of clubs and classes. We chose this participant to represent the upper division because the upper division themselves have elected them to represent them since they are a member of the community council. We chose to conduct the usability test in the library because it is a space in which high schoolers spend a large part of their time and they would likely be using our app in that space. The procedure for the test was that we opened the app for the junior and gave them some tasks to complete like asking a question about their class and looking at class assignments. We directed the junior through the tasks while taking notes on feedback the junior had. Some changes that we made as a result of this usability test were that we added a screen for students to submit their schedule and a place for them to search through other classes to see what people said about different classes and what classes they would want to take.
 
 All of these issues were severe enough that they necessitated fixing them:
+
 Unsure of what to do after a loading screen
+
 Unable to go from the login screen to the next screen
+
 Unable to search for other classes
+
 No honor council interface so role of the honor council is unclear
+
 Unsure of how the app knows what your schedule is
+
 No example of difficulty reviews
 
 ![](../upload.jpg)
