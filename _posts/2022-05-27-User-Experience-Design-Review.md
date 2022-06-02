@@ -48,3 +48,10 @@ We learned that design is a perpetual process of improvement and that we are nev
 If we were to do this project differently, or to pursue it further, we would have made a few changes. First, we would have used more iterations for our design 	so we could more fully flush out our design. While our designs made it quite clear what our intentions were, fully fleshing out each part could have been helpful. Beyond that, we would meet with the administration of the school to determine the feasibility of our app since it would cause a somewhat drastic change in the school. We would also try to expand our team to include more coders who could fully implement our app. However, before any of those steps, we would conduct slightly more usability testing to see if people would be interested in our app idea.
 ## Appendix
 
+[Team Contract](https://samjiyonrosieproject.github.io/beautiful-jekyll/2021-12-02-Team-Contract/)
+[Mission Statement](https://samjiyonrosieproject.github.io/beautiful-jekyll/2021-12-05-Mission-Statement/)
+[Contextual Inquiry Review](https://samjiyonrosieproject.github.io/beautiful-jekyll/2022-01-11-Contextual-Inquiry-Review/)
+[Task Review](https://samjiyonrosieproject.github.io/beautiful-jekyll/2022-01-25-Task-Review/)
+[Design Check-In](https://samjiyonrosieproject.github.io/beautiful-jekyll/2022-02-14-Design-Check-In/)
+[Usability Testing](https://samjiyonrosieproject.github.io/beautiful-jekyll/2022-04-05-Usability-Testing/)
+
