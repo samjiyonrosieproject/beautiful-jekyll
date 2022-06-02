@@ -30,4 +30,6 @@ In our final paper prototype, we focused on removing barriers between grades by 
 
 We adapted this paper prototype to a digital prototype in Figma. One of the most important modifications made to our prototype during this process was that we gave our users the ability to search for classes they were interested in. This revision was necessary because one of the times when underclassmen most frequently want to talk to upperclassmen is when they are deciding their schedules and are curious about new classes. Thus, being able to search for these classes and see who has taken them allows the under and upperclassmen to connect. Another critical addition to our design was that we added a button for people to upload their schedule and thus automatically connect them to their peers without making them input each class one by one. If we make it easier for people to use our app it is more likely that they will use it.
 
+![](../IMG_8632.jpg)
 
+[Initial digital prototype](https://www.figma.com/file/oag9nknDYIfeCZ6kluSsTW/Korffers-Connect-Design?node-id=0%3A1)
