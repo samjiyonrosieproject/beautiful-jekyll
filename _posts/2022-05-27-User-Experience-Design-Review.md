@@ -35,9 +35,9 @@ We adapted this paper prototype to a digital prototype in Figma. One of the most
 
 ![](../IMG_8632.jpg)
 
-[Initial digital prototype](https://www.figma.com/file/oag9nknDYIfeCZ6kluSsTW/Korffers-Connect-Design?node-id=0%3A1)
 
 ## Digital Mockup & Testing Results
+[Final digital prototype](https://www.figma.com/file/oag9nknDYIfeCZ6kluSsTW/Korffers-Connect-Design?node-id=0%3A1)
 Our digital prototype achieved the task of helping Horace Mann students be less judgemental of other grades through the concept of the design as well as a few specific features we implemented. Our design connects students from different grades through discussions about school and classes, which is something they all have in common. This common ground prevents assumptions and misconceptions. Beyond that, the chat feature in our digital prototype allows students from different backgrounds to simply talk to each other, which is often all that is needed to erase misconceptions.
 For the final stage of this project, we chose to do usability tests because even though we could use our design and it made sense to us, we had been working on it. So we needed to determine if people who had not been working on that project could also operate our app. Our participants were two juniors who are not in our App Development class and came to the school at drastically different entry points and a sophomore in our App Development class. These participants gave us a solid distribution of students from different backgrounds and different levels of comprehension of what an app designed in our class looks like.
 
